@@ -1,3 +1,6 @@
+#Description
+A platform that integrates smart technology with sustainability to enhance urban living. 🌱🏙️ We aimed to address key health and environmental issues in smart cities, making life more convenient and eco-friendly. 🌍
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
